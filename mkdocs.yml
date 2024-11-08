@@ -16,6 +16,9 @@ nav:
     - Ansible:
       - Overview: ansible/index.md
       - Setting up Semaphore: ansible/semaphore.md
+  - Scripts:
+      - Bash Scripts: scripts/bash-scripts.md
+      - Porxmox Scripts: scripts/proxmox-scripts.md    
 
 
 theme:
