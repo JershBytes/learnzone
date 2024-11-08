@@ -8,7 +8,8 @@
 
 ```shell
 # Pull Script
-curl -O https://raw.githubusercontent.com/jershbytes/scripts/main/shell/powersheller.sh
+curl -O https://github.com/JershBytes/learnzone/blob/main/assets/scripts/bash/powersheller.sh
+
 
 # Run Script
 ./powersheller.sh
@@ -20,7 +21,7 @@ curl -O https://raw.githubusercontent.com/jershbytes/scripts/main/shell/powershe
 
 ```shell
 # Pull Script
-curl -O https://raw.githubusercontent.com/jershbytes/scripts/main/shell/push-2-git.sh
+curl -O https://github.com/JershBytes/learnzone/blob/main/assets/scripts/bash/push-2-git.sh
 
 # Run Script
 ./push-to-github.sh
@@ -31,7 +32,7 @@ curl -O https://raw.githubusercontent.com/jershbytes/scripts/main/shell/push-2-g
 
 ```shell
 # Pull Script
-curl -O https://raw.githubusercontent.com/jershbytes/scripts/main/shell/sig-create.sh
+curl -O https://github.com/JershBytes/learnzone/blob/main/assets/scripts/bash/sig-create.sh
 
 # Run Script
 ./sig-create.sh
@@ -42,7 +43,7 @@ curl -O https://raw.githubusercontent.com/jershbytes/scripts/main/shell/sig-crea
 
 ```shell
 # Pull Script
-curl -O https://raw.githubusercontent.com/jershbytes/scripts/main/shell/case-insensitive.sh
+curl -O https://github.com/JershBytes/learnzone/blob/main/assets/scripts/bash/case-insensitive.sh
 
 # Run Script
 ./case-insensitive.sh
@@ -54,7 +55,7 @@ curl -O https://raw.githubusercontent.com/jershbytes/scripts/main/shell/case-ins
 
 ```shell
 # Pull Script
-curl -O https://raw.githubusercontent.com/jershbytes/scripts/main/shell/ez-docker-installer.sh
+curl -O https://github.com/JershBytes/learnzone/blob/main/assets/scripts/bash/ez-docker-installer.sh
 
 # Run Script
 ./ez-docker-installer.sh
@@ -66,7 +67,7 @@ curl -O https://raw.githubusercontent.com/jershbytes/scripts/main/shell/ez-docke
 
 ```shell
 # Pull Script
-curl -O https://raw.githubusercontent.com/jershbytes/scripts/main/shell/npm-bootstrap.sh
+curl -O https://github.com/JershBytes/learnzone/blob/main/assets/scripts/bash/npm-bootstrap.sh
 
 # Run Script
 ./npm-bootstrap.sh

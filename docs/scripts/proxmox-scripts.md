@@ -6,19 +6,9 @@
 ```shell
 # Pull Script
 
-curl -O https://raw.githubusercontent.com/jershbytes/scripts/main/proxmox/import-ova.sh
+curl -O https://github.com/JershBytes/learnzone/blob/main/assets/scripts/proxmox/import-ova.sh
 
 # Run Script
 ./import-ova.sh
 ```
 
-### Docker LXC
-- Install Docker in LXC
-```shell
-# Pull Script
-
-curl -O https://raw.githubusercontent.com/jershbytes/scripts/main/proxmox/docker-lxc.sh
-
-# Run Script
-./docker-lxc.sh
-```
